@@ -8,4 +8,4 @@ I enjoy building innovative solutions, enhancing user experiences, and solving r
 - Database Management  
 - System Design  
 
-I am always eager to collaborate on impactful projects.  
+I am always eager to collaborate on impactful projects.. 
