@@ -1,7 +1,6 @@
 # About Me  
 
-I am a Computer Science undergraduate passionate about exploring various aspects of technology and software development.  
-I enjoy building innovative solutions, enhancing user experiences, and solving real-world challenges through programming and design.  
+IT Officer with a passion for system development and technology solutions. Skilled in web and mobile application development, database management, and problem-solving. Eager to continuously learn, grow, and contribute to building efficient and user-friendly systems.
 
 ## Interests:  
 - Web Development  
